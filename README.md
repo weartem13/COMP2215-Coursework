@@ -1,5 +1,8 @@
 # MUD-like Game
 
+![screenshot1](./1.png)
+![screenshot2](./2.png)
+
 This project is a simple MUD (Multi-User Dungeon)-style text adventure game written in pure C. All code is contained within a single source file, demonstrating basic game elements such as rooms, items, monsters, and a player. It is designed for learning or for further extension.
 
 ## Table of Contents
