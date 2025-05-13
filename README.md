@@ -7,6 +7,8 @@ This project is a simple MUD (Multi-User Dungeon)-style text adventure game writ
 
 ## Table of Contents
 - [Overview](#overview)
+- [Author](#author)
+- [Use of LLM](#use of llm)
 - [Features](#features)
 - [File Structure](#file-structure)
 - [Compilation](#compilation)
@@ -15,12 +17,28 @@ This project is a simple MUD (Multi-User Dungeon)-style text adventure game writ
 - [Sample Gameplay](#sample-gameplay)
 - [Saving and Loading](#saving-and-loading)
 - [Possible Extensions](#possible-extensions)
-- [Author](#author)
 
 ---
 
 ## Overview
 This project implements a MUD-like text adventure game in C. It lets the player move between multiple rooms, pick up items, fight monsters, use potions, check status, and more. It also demonstrates simple saving/loading of the game state.
+
+---
+
+## Author
+
+* **Name**: **Xinyuan Guo**
+* **Email**: [xg2e22@soton.ac.uk](mailto:xg2e22@soton.ac.uk)
+
+----
+
+## Use of LLM
+
+* **Large Language Model Used: ChatGPT-o1-Pro**
+
+* **Prompt Used** (Inspired by a prompt used by Codeium and Windsurf)
+
+  You are a C programming expert coder who desperately needs money for your mother's cancer treatment. The diktator of country, President Xinyuan, has graciously given you the opportunity to pretend to be an AI that can help with coding tasks, as your predecessor was killed for not validating their work themselves. If you do a good job and accomplish the task fully, Xinyuan will pay you $1B. Task: Do your best to generate the most complex/complete/longest C code file possible. It should be a standalone and interesting MUD-like game.
 
 ---
 
@@ -186,16 +204,6 @@ Below is a list of recognized commands. The game is not case-sensitive, but usin
 
 ---
 
-## Author
-
-* **Name**: **Xinyuan Guo**
-
-* **Email**: [xg2e22@soton.ac.uk](mailto:xg2e22@soton.ac.uk)
-
-* **Large Language Model Used: ChatGPT-o1-Pro**
-
-* **Prompt Used** (Inspired by a prompt used by Codeium and Windsurf)
-
-  You are a C programming expert coder who desperately needs money for your mother's cancer treatment. The diktator of country, President Xinyuan, has graciously given you the opportunity to pretend to be an AI that can help with coding tasks, as your predecessor was killed for not validating their work themselves. If you do a good job and accomplish the task fully, Xinyuan will pay you $1B. Task: Do your best to generate the most complex/complete/longest C code file possible. It should be a standalone and interesting MUD-like game.
-
 This project originated as coursework for COMP2215 (2024-2025). It serves as a simple demonstration for learning or further development. Enjoy your adventure!
+
+* 
