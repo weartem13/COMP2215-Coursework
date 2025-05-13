@@ -8,7 +8,7 @@ This project is a simple MUD (Multi-User Dungeon)-style text adventure game writ
 ## Table of Contents
 - [Overview](#overview)
 - [Author](#author)
-- [Use of LLM](#use of llm)
+- [Use of LLM](#use-of-llm)
 - [Features](#features)
 - [File Structure](#file-structure)
 - [Compilation](#compilation)
